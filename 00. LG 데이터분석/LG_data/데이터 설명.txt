@@ -1,0 +1,18 @@
+5초 이상 3시간 미만
+
+영화 - 어벤져스 > 시리즈화해서 추천
+channel : channel 별 머문 시간
+vod : 시청 데이터
+contents : 상세페이지(상세페이지에 머문 시간)
+series_nm = null - 영화인 경우
+ct_cl : 대분류 genre_ : 소분류
+series로 추천 / 회차로 추천할지(super_asset_)
+분류 + 장르에 대한 선호로 추천
+SMRY > 장르 추출
+actr - 좋아하는 배우 , 감독
+display_rtm = 총 방영된 시간
+log_dt = 상세 페이지에 들어간 시간
+use_tms :?
+
+vod_Data(결과값 - 봤다 안봤다
+asset_nm : 
